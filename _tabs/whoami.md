@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-address-card
 order: 4
 ---
 
@@ -10,3 +10,6 @@ I lead PWNSAT, a project dedicated to building intentionally vulnerable CubeSats
 
 My research explores practical attack surfaces in satellite subsystems and embedded radio communications, with a strong emphasis on offensive, applied security. I’ve delivered trainings at international security conferences such as Ekoparty, and I’m committed to advancing offensive research across the aerospace and IoT hacking domains.
 
+---
+
+My [linktr](https://linktr.ee/Jahaziellem).
