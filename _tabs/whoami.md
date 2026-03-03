@@ -4,7 +4,7 @@ icon: fas fa-address-card
 order: 4
 ---
 
-I’m an embedded systems engineer at ElectronicCats and Pwnlab, specializing in low-level firmware development, hardware exploitation, and space systems security. Most of my work focuses on understanding how embedded systems really operate at the lowest levels—so I can analyze them, break them, and ultimately make them more secure.
+I’m an Cybersecurity Analyst, specializing in low-level firmware development, hardware exploitation, and space systems security. Most of my work focuses on understanding how embedded systems really operate at the lowest levels, so I can analyze them, break them, and ultimately make them more secure.
 
 I lead PWNSAT, a project dedicated to building intentionally vulnerable CubeSats for hands-on satellite cybersecurity training, and I’m the architect of FlatSat, an educational platform designed to teach practical embedded hardware hacking through real-world scenarios.
 
